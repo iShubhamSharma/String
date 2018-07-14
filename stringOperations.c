@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+
+/* This Program counts The Lower Case, Upper Case, Numbers & Special Characters in
+ a string without using any In built function */ 
+
 int main()
   {
 	char str[] = "#Shubh27am";
